@@ -10,6 +10,6 @@
 
 In the standard ArchLinux [ISO](https://archlinux.org/download/): 
 
-`curl -L https://github.com/h8d13/COSAI/raw/master/cosai_install.sh | bash`
+`curl -L https://github.com/h8d13/COSAI/raw/master/cosai.sh | bash`
 
 ---
